@@ -10,5 +10,6 @@
 
 [mogginn](https://www.mbl.is/frettir/)
 
+# mjög reið mörgæs
 
 ![reið mörgæs](https://github.com/konni123/prufa123/blob/main/konni/linux_morgg%C3%A6s.png)
