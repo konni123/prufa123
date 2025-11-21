@@ -11,4 +11,4 @@
 [mogginn](https://www.mbl.is/frettir/)
 
 
-![mynd](slóð)
+![reið mörgæs](https://github.com/konni123/prufa123/blob/main/myndir)
